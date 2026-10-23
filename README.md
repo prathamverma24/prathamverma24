@@ -1,5 +1,15 @@
 # 💫 About Me:
-# Hi, I'm Pratham Verma 👋<br><br>### AI/ML Engineer | Data Science Enthusiast | Full-Stack Developer<br><br>I'm a Computer Science Engineering student at Haridwar University, passionate about building intelligent applications that combine **Artificial Intelligence, Machine Learning, and modern web technologies**.<br><br>I enjoy taking projects from concept to deployment — from training predictive models and building AI-powered platforms to developing responsive, full-stack web applications.<br><br>## 🚀 About Me<br><br>- 🤖 Building AI/ML solutions for real-world problems.<br>- 🧠 Exploring NLP, recommendation systems, predictive analytics, and computer vision.<br>- 💻 Developing full-stack applications using React, TypeScript, FastAPI, and modern backend technologies.<br>- 🌊 Built **Pravha**, an AI-powered flood forecasting and emergency response platform.<br>- 🏋️ Building **AthleteOS**, an AI-powered fitness and training platform.<br>- 📊 Experienced in data preprocessing, feature engineering, model evaluation, and analytics.<br>- 🌱 Continuously learning and exploring new technologies to build impactful products.<br><br>## 🛠️ Tech Stack<br><br>**Languages**<br>Python · SQL · Java · JavaScript · TypeScript · C<br><br>**AI & Machine Learning**<br>Scikit-learn · XGBoost · TensorFlow · Keras · PyTorch · Pandas · NumPy · NLP · Recommendation Systems<br><br>**Web Development**<br>React · Express.js · FastAPI · REST APIs · Tailwind CSS<br><br>**Databases & Tools**<br>MySQL · MongoDB · Supabase · Git · GitHub · Docker · Jupyter Notebook · Google Colab<br><br>**Data Analytics**<br>Power BI · Excel · Matplotlib · Seaborn · Statistical Analysis<br><br>## 🌟 Featured Projects<br><br>- **AthleteOS** — AI-powered fitness and training platform featuring workout progression, nutrition tracking, progress analytics, and optional computer-vision-based insights.<br>- **Pravha** — AI-powered flood forecasting and emergency response system using XGBoost, FastAPI, and MongoDB, with multilingual emergency coordination.<br><br>## 🏆 Achievements<br><br>- 🥇 Ranked **21st among 100+ teams** at a national hackathon.<br>- 📜 NPTEL Certification in Data Science Using Python.<br>- 🎓 Higher Education Scholar — ULLAS, Intellect Design Arena.<br><br>## 🤝 Let's Connect<br><br>I'm interested in collaborating on AI/ML projects, data-driven applications, and innovative software products.<br><br>📍 New Delhi, India<br><br>🔗 [LinkedIn](www.linkedin.com/in/pratham-verma-695b70371 · [GitHub](https://github.com/prathamverma24)<br><br>---<br><br>*Building, learning, and turning ideas into real-world solutions. 🚀*
+## 💫 About Me
+
+👋 Hi, I'm **Pratham Verma**, a Computer Science Engineering student passionate about AI/ML and Full-Stack Development.
+
+- 🤖 Building AI-powered applications and machine learning solutions.
+- 💻 Working with Python, React, FastAPI, and modern web technologies.
+- 🌊 Built Pravha, an AI-powered flood forecasting platform.
+- 🏋️ Developing AthleteOS, an AI-powered fitness platform.
+- 🌱 Always learning, building, and solving real-world problems.
+
+🚀 *Turning ideas into impactful technology.*
 
 
 ## 🌐 Socials:
